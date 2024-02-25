@@ -1,0 +1,30 @@
+.p1{
+    height: 50px;
+    margin-left: 20px;
+}
+.a1{
+    margin-left: 400px;
+    font-size: 20px;
+
+}
+.div2{
+    text-align: center;
+    font-size: 30px;
+    font-family: sans-serif;
+}
+.div3{
+    text-align: center;
+    font-size: 30px;
+}
+.all{
+    text-align: center;
+}
+.div4{
+    margin-right: 300px;
+}
+#but1{
+   background-color:#e03131;
+   padding: 10px 25px 10px 25px;
+   color: white;
+   font-size: 20px;
+}
